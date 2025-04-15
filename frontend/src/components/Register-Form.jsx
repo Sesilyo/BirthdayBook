@@ -1,4 +1,3 @@
-import { defineProperties } from "ethers";
 
 function RegisterForm()
 {
@@ -23,7 +22,7 @@ function RegisterForm()
 
                 <label>Password</label><br/>
                 <input type="password" required></input><br/>
-                
+
                 <input type="submit"></input>
             </form>
         </>
