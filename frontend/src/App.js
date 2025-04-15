@@ -1,12 +1,10 @@
-import LogInForm from "./components/Log-In-Form";
-import RegisterForm from "./components/Register-Form";
+import InitialLogIn from "./components/Initial-Log-In";
 
 function App()
 {
   return (
     <>
-      <LogInForm />
-      <RegisterForm />
+      <InitialLogIn />
     </>
   );
 }
