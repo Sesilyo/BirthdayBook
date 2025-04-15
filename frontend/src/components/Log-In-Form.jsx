@@ -3,9 +3,9 @@ function LogInForm()
 {
     return (
         <>
+        <p>Birthdaybook</p>
+        <p>By Sesilyo</p>
         <form>
-            <p>Birthdaybook</p>
-            <p>By Sesilyo</p>
             <label>Email</label><br/>
             <input type="email" required></input><br/>
             <label>Password</label><br/>
