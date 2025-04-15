@@ -5,10 +5,11 @@ function LogInForm()
         <>
         <form>
             <p>Birthdaybook</p>
-            <label>Username</label><br/>
-            <input type="text"></input><br/>
+            <p>By Sesilyo</p>
             <label>Email</label><br/>
-            <input type="email"></input><br/>
+            <input type="email" required></input><br/>
+            <label>Password</label><br/>
+            <input type="password" required></input><br/>
             <input type="submit"></input>
         </form>
         </>
